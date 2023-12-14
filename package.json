@@ -1,0 +1,16 @@
+{
+  "name": "robot_receita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.44",
+    "dotenv": "^16.3.1",
+    "puppeteer": "21.6.0"
+  }
+}
